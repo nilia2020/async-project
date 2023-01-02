@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nilia2020/async-project/issues"
   },
-  "homepage": "https://github.com/nilia2020/async-project#readme"
+  "homepage": "https://github.com/nilia2020/async-project#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
