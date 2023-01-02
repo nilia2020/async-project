@@ -1,0 +1,20 @@
+{
+  "name": "async-project",
+  "version": "1.0.0",
+  "description": "Proyecto de asincronismo de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilia2020/async-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilia2020/async-project/issues"
+  },
+  "homepage": "https://github.com/nilia2020/async-project#readme"
+}
